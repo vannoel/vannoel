@@ -7,6 +7,12 @@ Hi! I am Noel. Basically I am a front-end engineer but also able to handle back-
 - [Starter with Next for SSR](https://github.com/vannoel/starter-react-next)
 - [Example for ApexCharts](https://github.com/vannoel/material_fe_trainging_chart)
 
+# Cogman Ltd.
+
+[HomePage](https://cogmantech.github.io/)
+
+That's my company for customized development. If you have some needs about "development", any type of questions, Cogman would like to take it. Cogman will do the best to provide the helps.
+
 # Black Tool Box Laboratory
 
 [HomePage](https://blacktoolboxlaboratory.github.io/)
