@@ -11,7 +11,7 @@ Hi! I am Noel. Basically I am a front-end engineer but also able to handle back-
 
 [HomePage](https://cogmantech.github.io/)
 
-That's my company for customized development. If you have some needs about "development", any type of questions, Cogman would like to take it. Cogman will do the best to provide the helps.
+That's my company for customized service of development. If you have some needs about "development", any type of questions, Cogman would like to take it. Cogman will do the best to provide the helps.
 
 # Black Tool Box Laboratory
 
